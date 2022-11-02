@@ -1,0 +1,145 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style: none;
+}
+p
+{
+    font-size: 14px;
+}
+.header1
+{
+    height: 217px;
+    width: 940px;
+    margin: auto;
+}
+.header
+{
+    float: right;
+    margin: 0 20px 0 0;
+}
+.header span
+{
+    margin-left: -70px;
+    margin-right: 10px;
+}
+.out
+{
+    width: 1020px;
+    height: 900px;
+    margin: 30px auto 0;
+    /* border: 5px solid red; */
+}
+.main
+{
+    height: 504px;
+    width: 247px;
+    margin: 21px 0 0 40px;
+    position: relative;
+    float: left;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+    margin: 14px 38px;
+    display: inline-block;
+    font-size: 14px;
+}
+ul
+{
+    position: absolute;
+    top: 70px;
+    left: 45px;
+}
+li
+{
+    background-image: url('Images/templatemo_menu_button.jpg');
+    background-repeat: no-repeat;
+    background-size: 192px 50px;
+    height: 50px;
+    width: 192px;
+}
+li:hover
+{
+    background-image: url('Images/templatemo_menu_current.jpg');
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 192px;
+}
+.main1
+{
+    float: right;
+    margin: 21px 40px 0 0;
+    position: relative;
+    height: 500px;
+}
+.cls1
+{
+    float: right;
+    font-size: 12px;
+    margin-right: 15px;
+    line-height: 20px;
+}
+.cls2
+{
+    float: right;
+    font-size: 12px;
+    margin-right: 42px;
+    margin-top: 20px;
+    line-height: 20px;
+}
+.cls3
+{
+    float: right;
+    font-size: 12px;
+    margin-right: 15px;
+    margin-top: 20px;
+    line-height: 20px;
+}
+.sub
+{
+    position: absolute;
+    top: 160px;
+    left: 40px;
+}
+.footer
+{
+    height: 99px;
+    width: 940px;
+    margin: auto;
+    position: relative;
+}
+.cls4
+{
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    color: white;
+}
+.cls4 a
+{
+    margin: 0px;
+    text-decoration: underline;
+}
+.sub1 img
+{
+    width: 100px;
+    position: absolute;
+    top: 400px;
+    left: 25px;
+}
+.sub2 img
+{
+    width: 100px;
+    position: absolute;
+    top: 400px;
+    left: 135px;
+}
+.clear
+{
+    clear: both;
+}
